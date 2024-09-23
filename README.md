@@ -10,6 +10,9 @@ This project explores mathematical approximations using Taylor Series expansions
 - <b>Python</b> 
 - <b>Jupyter</b>
 
+<h2>Program walk-through:</h2>
+View the jupyter notebook.
+
 <!--
  ```diff
 - text in red
