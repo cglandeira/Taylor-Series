@@ -11,14 +11,4 @@ This project explores mathematical approximations using Taylor Series expansions
 - <b>Jupyter</b>
 
 <h2>Program walk-through:</h2>
-See jupyter notebook - [Taylor Analysis](Taylor Series Analysis.ipynb)
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+See jupyter notebook - [[Taylor Analysis](Taylor Series Analysis.ipynb)](https://github.com/cglandeira/Taylor-Series/blob/26a42a275a632f641524bd509fddfcc6db1d38ba/Taylor%20Series%20Analysis.ipynb)
