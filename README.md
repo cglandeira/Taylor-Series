@@ -11,4 +11,6 @@ This project explores mathematical approximations using Taylor Series expansions
 - <b>Jupyter</b>
 
 <h2>Program walk-through:</h2>
-See jupyter notebook - [Taylor Series Analysis](https://github.com/cglandeira/Taylor-Series/blob/main/Taylor%20Series%20Analysis.ipynb)
+See jupyter notebook:
+
+- [Taylor Series Analysis](https://github.com/cglandeira/Taylor-Series/blob/main/Taylor%20Series%20Analysis.ipynb)
